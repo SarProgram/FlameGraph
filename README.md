@@ -1,6 +1,9 @@
+本文源自：https://github.com/brendangregg/FlameGraph
+
 # 火焰图可视化分析代码性能
 
 官方网站： http://www.brendangregg.com/flamegraphs.html
+
 
 示例（点击放大）：
 
